@@ -39,5 +39,5 @@ skills</p>
 <hr>
 <h3 align="left"> Git Status:-</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsgajare&show_icons=true&theme=tokyonight" alt="manojsgajare" /></p>
+// <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsgajare&show_icons=true&theme=tokyonight" alt="manojsgajare" /></p>
 
